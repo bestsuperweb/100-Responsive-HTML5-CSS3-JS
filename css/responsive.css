@@ -1,0 +1,983 @@
+
+
+@media only screen and ( min-width:769px) and ( max-width:1200px ){
+	
+	.black-box {
+    width: 100%;
+    margin: 0px;
+    height: auto;
+    float: left;
+    background: #000;
+    height: 320px;
+    padding-top: 0px;
+   padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+}
+	.box-s03 {
+	float: left;
+	width: 100%;
+	margin-top: 150px;
+	margin-left:0px;
+}
+.white-box {
+    width: 100%;
+    margin: 0px;
+    padding: 0px 0px;
+    height: auto;
+    float: left;
+    background: #fff;
+    height: 320px;
+     padding-right: 0px; 
+     padding-left: 0px; 
+}
+.text-box-01 p {
+    margin: 0px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+	text-align:center;
+}	
+	.s01 { text-align:center;
+	width:100%;
+	}
+	.s02{ text-align:center;
+	width:100%;
+	}
+.s01 p {
+	margin: 0px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: center !important;
+	
+}
+.s02 p {
+	margin: 0px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: center !important;
+	
+
+}
+}
+
+@media only screen and ( min-width:320px) and ( max-width:768px ){
+	
+.white-box {
+    width: 100%;
+    margin: 0px;
+    padding: 0px 0px;
+    height: auto;
+    float: left;
+    background: #fff;
+    height:auto;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+.box-s03 {
+	float: left;
+	width: 100%;
+	margin-top:0px;
+	margin-left:40px;
+}
+
+.box-half {
+	background-color: #1c1c1c;
+	float: left;
+	height: auto;
+	width:100%;
+	height:auto;
+	padding-top: 23px;
+	padding-right: 0px;
+	padding-bottom: 23px;
+	padding-left: 0px;
+}
+.box-half-01 {
+	background-color: #000000;
+	float: left;
+	height: auto;
+	width: 100%;
+	height:auto;
+	text-align:center;
+	padding-top: 23px;
+	padding-right: 0px;
+	padding-bottom: 23px;
+	padding-left: 0px;
+}
+}
+
+
+
+@media only screen and ( min-width:1024px) and ( max-width:1150px ){
+.nav-div nav ul li a{
+		font-size: 14px !important;
+		margin: 0px 8px !important;
+}
+
+#fullimg-box{
+	background-size:cover;
+}
+
+
+
+
+
+#overons-banner{
+	background-size:cover;
+}
+
+#diensten-banner{
+	background-size:cover;
+}
+
+#contact-banner{
+	background-size:cover;
+}
+
+#portf-banner{
+	background-size:cover;
+}
+
+.banner-text {
+    margin: 165px 0px 160px;
+}
+
+.contact-form p textarea{
+	height:150px;
+}
+
+.detail-list ul li{
+	height:40px;
+}
+
+}
+
+@media only screen and ( min-width:768px) and ( max-width:1023px ){ 
+
+#fullimg-box {
+	background-image: url(http://webxcellence.co.in/Stuwa/images/n2.jpg);
+	background-size:cover !important;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+.followers {
+    font-size: 26px;
+    color: #FFF;
+    text-align: center;
+    margin-top: 37px;
+}
+
+
+.fllow-box p {
+    font-size: 21px;
+    color: #FFF;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.fllow-box p small {
+    font-size: 13px;
+}
+
+.fllow-box p span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text-03 p {
+    color: #FFF;
+    float: none;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.news-email p {
+    margin-top: 0px;
+}
+
+.news-email {
+    margin-top: 24px;
+}
+
+.email-01{
+	margin-right:0px;
+}
+
+.text-03 p span {
+    font-size: 15px;
+    font-weight: normal;
+    color: #c3c3c3;
+}
+
+.submit-01 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    background-color: transparent;
+    border-radius: 3px;
+    border: 2px solid #8e8e8e;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+    width: 230px;
+    margin-top: 10px;
+}
+
+.foot-01 {
+    text-align: center;
+}
+
+.foot-menu {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.Opening {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.foot-con {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+    padding-bottom: 10px;
+}
+
+.foot-link ul {
+    float: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.foot-link ul li {
+    margin: 0px;
+    padding: 0px;
+    float: none;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.foot-link ul li a {
+    font-size: 10px;
+    color: #999;
+    text-decoration: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+
+
+
+
+.text-box-01 h2 {
+    margin: 0px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+}
+
+.slider-text {
+    width: 90%;
+    margin: 0px 0px 0px 10%;
+    padding: 0px;
+    height: auto;
+    float: left;
+    position: absolute;
+    top:80px;
+}
+
+.slider-text h1 { 
+	font-size:18px;
+	margin-top:60px;
+}
+
+.logo-div {
+    width: 50% !important;
+    margin: 0px 0px 0px !important;
+    padding: 0px !important;
+    height: auto !important;
+    float: left !important;
+    margin-left: 80px !important;
+}
+
+.slider-text p {
+    margin: 10px 0px;
+    padding: 0px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px;
+}
+
+.slider-text a {
+    text-align: center;
+    padding: 4px 25px;
+    border: 2px solid #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #fff;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+.black-box h2 {
+    line-height: 29px;
+    font-size: 24px;
+}
+
+.flexslider .slides img{
+	height:360px !important;
+}
+
+.head-div {
+    margin: 0px !important;
+    padding: 0px !important;
+    height: auto !important;
+    float: right !important;
+    border: none !important;
+    border-radius: 5px !important;
+    width: auto !important;
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+}
+
+.nav-div {
+        width: 38% !important;
+    padding: 0px !important;
+    height: auto !important;
+    float: left !important;
+    margin: -11px 0px 0px;
+}
+
+.top-head {
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.black-box p strong {
+    font-weight: normal;
+    margin-left: 45px;
+}
+
+.nav-div{
+	text-align:left;
+}
+
+#header-new.clone{
+	display:none;
+}
+
+.copy-01 p{
+	display:none;
+	padding:0px;
+}
+
+.partners-logo-box img{
+	width:100%;
+}
+
+
+#header-new{
+	background:#000;
+	padding:20px 0px; 
+}
+
+.flexslider .slides img{
+	height:auto !important;
+}
+
+#overons-div {
+    top: 17%;
+}
+
+#overons-banner{
+	background-size:cover;
+}
+
+#diensten-banner{
+	background-size:cover;
+}
+
+.banner-text{
+	margin: 165px 0px 165px;
+}
+
+
+#contact-banner{
+	background-size:cover;
+}
+
+#portf-banner{
+	background-size:cover;
+}
+
+.contact-form {
+    width: 80%;
+}
+
+.contact-form p input {
+    height: 35px;
+}
+
+.contact-form p textarea {
+    height: 150px;
+}
+
+.map-div #map {
+    height: 772px;
+}
+
+.contact-address p {
+    font-size: 14px;
+}
+
+.contact-address h4 {
+    font-size: 16px;
+}
+
+.port-text{
+	font-size: 13px;
+}
+
+.sort-div{
+	padding:0px;
+}
+
+.filter-menu{
+	padding:0px;
+}
+
+#filters li span {
+    margin: 0px 15px 5px 0px;
+}
+
+.back-div p i {
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.back-div p {
+    font-size: 14px;
+}
+
+.detail-head h2 {
+    font-size: 20px;
+}
+
+.back-div {
+    width: 96%;
+    margin: 3px 0px 0px 4%;
+}
+
+.table-content ul li p {
+    font-size: 10px;
+}
+
+.detail-list ul li{
+	height:40px;
+}
+
+
+}
+
+
+
+@media only screen and ( min-width:361px) and ( max-width:767px ){
+	.head-div{
+		margin-top:0px !important;
+	}
+	
+	.partners-logo-box img {
+    width: 100%;
+    max-width: 140px !important;
+}
+}
+
+
+@media only screen and ( min-width:320px) and ( max-width:767px ){ 
+
+#fullimg-box {
+	background-image: url(http://webxcellence.co.in/Stuwa/images/n2.jpg);
+	background-size:cover !important;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+.followers {
+    font-size: 26px;
+    color: #FFF;
+    text-align: center;
+    margin-top: 37px;
+}
+
+
+.fllow-box p {
+    font-size: 21px;
+    color: #FFF;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.fllow-box p small {
+    font-size: 13px;
+}
+
+.fllow-box p span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text-03 p {
+    color: #FFF;
+    float: none;
+    padding-right: 0px;
+    text-align: center;
+	border:none;
+}
+
+.news-email p {
+    margin-top: 0px;
+}
+
+.news-email {
+    text-align: center;
+}
+
+.email-01{
+	margin-right:0px;
+}
+
+.text-03 p span {
+    font-size: 15px;
+    font-weight: normal;
+    color: #c3c3c3;
+}
+
+.submit-01 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    background-color: transparent;
+    border-radius: 3px;
+    border: 2px solid #8e8e8e;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+    width: 230px;
+    margin-top: 10px;
+}
+
+.foot-01 {
+    text-align: center;
+}
+
+.foot-menu {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.Opening {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.foot-con {
+    float: left;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10%;
+    padding-bottom: 10px;
+}
+
+.foot-link ul {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0px;
+}
+
+.foot-link ul li a {
+    font-size: 10px;
+    color: #999;
+    text-decoration: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+
+
+
+.text-box-01 h2 {
+    margin: 0px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+}
+
+.slider-text {
+    width: 90%;
+    margin: 0px 0px 0px 10%;
+    padding: 0px;
+    height: auto;
+    float: left;
+    position: absolute;
+    top:80px;
+}
+
+.slider-text h1 { 
+	font-size:18px;
+	margin-top:60px;
+}
+
+.logo-div {
+       width: 61%;
+    margin: 0px 0px 0px;
+    padding: 0px;
+    height: auto;
+    float: left;
+    
+    margin-left: 52px;
+}
+
+
+.slider-text p {
+    margin: 10px 0px;
+    padding: 0px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px;
+}
+
+.slider-text a {
+    text-align: center;
+    padding: 4px 25px;
+    border: 2px solid #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #fff;
+    font-weight: 400;
+}
+
+.head-div p i {
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.head-div p {
+    margin: 0px;
+    padding: 10px 15px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.black-box {
+    padding: 23px 40px;
+	height:auto;
+}
+
+.black-box h2 {
+    margin: 22px 0px 10px;
+    padding: 0px;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 29px;
+    font-size: 24px;
+}
+
+.flexslider .slides img{
+	height:360px !important;
+}
+
+.head-div {
+      margin: 0px;
+    padding: 0px;
+    height: auto;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    margin-top: -41px;
+   
+}
+
+.head-div p span {
+    display: none;
+}
+.nav-div {
+        width: 38%;
+    padding: 0px;
+    height: auto;
+    float: left;
+    margin: -11px 0px 0px;
+}
+
+.top-head {
+    margin-left: 0%;
+}
+
+.nav-div{
+	text-align:left;
+}
+
+#header-new.clone{
+	display:none;
+}
+
+.copy-01 p{
+	display:none;
+	padding:0px;
+}
+
+.partners-logo-box img{
+	width:100%;
+}
+
+#header-new{
+	background:#000;
+	padding:20px 0px;
+}
+
+.foot-link ul {
+    float: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.foot-link ul li {
+    margin: 0px;
+    padding: 0px;
+    float: none;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.overons-div h1 {
+    font-size: 25px;
+}
+
+.diensten-nav {
+    margin: 0px 0px 40px;
+}
+
+.scroll-menu.stick{
+	display:none;
+}
+
+#overons-banner{
+	background-size:cover;
+}
+
+.banner-text{
+	margin: 165px 0px 140px;
+}
+
+#diensten-banner{
+	background-size:cover;
+}
+
+#portf-banner{
+	background-size:cover;
+}
+
+
+.banner-text h1{
+	font-size:28px;
+}
+
+
+#contact-banner{
+	background-size:cover;
+}
+
+.contact-form {
+    width: 90%;
+}
+
+.contact-form p textarea{
+	height:200px;
+}
+
+.contact-heading h2 {
+    font-size: 26px;
+}
+
+.map-div #map {
+    width: 100%;
+    height: 300px;
+}
+
+#portfoliolist .portfolio{
+	width:100% !important;
+}
+
+.port-text {
+    background: #000;
+    color: #fff;
+	border:none;
+}
+
+.port-text h3 {
+    color: #FFF;
+}
+
+.filter-menu {
+    padding: 0px 15px;
+}
+
+#filters li span {
+    font-size: 15px;
+    margin: 0px 12px 10px 0px;
+	padding:0px !important;
+}
+
+.filter-menu label {
+    margin: 0px 15px 0px 0px;
+}
+
+.sort-div label {
+    margin: 0px 0px 0px 15px;
+}
+
+.sort-div {
+    padding: 15px 0px 10px;
+    text-align: left;
+    border-top: 1px solid #DEDEDE;
+}
+
+.detail-head {
+    margin: 20px 0px 0px;
+}
+
+.detail-head h2 {
+    text-align: left;
+	font-size: 24px;
+}
+
+#banner001 .flexslider .slides img {
+    height: auto !important;
+}
+
+.table-col{
+	margin-bottom:20px;
+}
+
+.detail-newimg{
+	margin:20px 0px;
+}
+
+.detail-list ul li:nth-child(2n){
+	margin-left:0px;
+}
+
+.detail-list ul li{
+	width:100%;
+}
+
+.foter-form-heading h3 {
+    font-size: 20px;
+}
+
+.button-cont{
+	width:100%;
+}
+
+#banner001 .flex-direction-nav a::before {
+	font-size:30px;
+}
+
+#banner001 .flex-direction-nav a {
+    width: 35px;
+    height: 35px;
+    margin: -25px 0 0;
+}
+
+.detail-01 {
+    margin: 40px 0px;
+}
+
+.back-div {
+    width: 100%;
+    margin: 10px 0px 0px 0%;
+}
+
+}
+
+@media only screen and ( min-width:600px) and ( max-width:767px ){ 
+
+#portfoliolist .portfolio {
+    width: 50% !important;
+}
+
+.port-text {
+    background: #fff;
+    color: #333;
+    border-left: 1px solid #E9E9E9;
+}
+
+.port-text h3 {
+    color: #000;
+}
+
+.contact-form-foot {
+    width: 60%;
+    margin: 0px auto;
+    float: none;
+    display: table;
+}
+
+.foter-form-heading {
+    text-align: center;
+}
+
+}

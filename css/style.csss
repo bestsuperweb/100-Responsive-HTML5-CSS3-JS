@@ -1,0 +1,309 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	padding:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header-new{
+	position: absolute;
+	z-index:9;
+	padding:30px 0px;
+}
+
+
+#slider{
+	
+}
+
+/*********slider-start********/
+
+.slides li img{
+	position:relative;
+}
+
+.slider-text{
+	width:28%;
+	margin:0px 0px 0px 10%;
+	padding:0px;
+	height:auto;
+	float:left;
+	position:absolute;
+	top:180px;
+}
+
+.slider-text h1{
+	margin:0px;
+	padding:0px;
+	color:#fff;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+.slider-text p{
+	margin:10px 0px;
+	padding:0px;
+	color:#fff;
+	font-size:18px;
+	font-weight:300;
+	line-height:28px;
+}
+
+.slider-text a{
+	text-align:center;
+	padding:12px 25px;
+	border:2px solid #fff;
+	font-size:18px;
+	text-transform:uppercase;
+	display:inline-block;
+	color:#fff;
+	font-weight:400;
+}
+
+.slider-text a:hover{
+	text-decoration:none;
+	background:#fff;
+	color:#000;
+}
+
+/*********slider-end********/
+
+.logo-div{
+	width:15%;
+	margin:10px 0px 0px;
+	padding:0px;
+	height:auto;
+	float:left;
+}
+
+.logo-div img{
+	width:100%;
+}
+
+.nav-div{
+	width:80%;
+	padding:0px;
+	height:auto;
+	float:right;
+	margin:10px 0px 0px;
+}
+
+.head-div{
+	margin:0px;
+	padding:0px;
+	height:auto;
+	float:left;
+	border:1px solid #fff;
+	border-radius:5px;
+}
+
+.head-div p{
+	margin:0px;
+	padding:10px 15px;
+	color:#fff;
+	font-size:18px;
+	font-weight:400;
+}
+
+.head-div p span{
+	font-weight:200;
+	font-size:16px;
+}
+
+.head-div p i{
+	margin-right:10px;
+	font-size:22px;
+}
+
+.black-box{
+	width:100%;
+	margin:0px;
+	padding:120px 40px;
+	height:auto;
+	float:left;
+	background:#000;
+}
+
+.black-box h2{
+	margin:0px 0px 25px;
+	padding:0px;
+	color:#fff;
+	text-transform:uppercase;
+	line-height: 40px;
+}
+
+.black-box p{
+	margin:0px;
+	padding:0px;
+	color:#fff;
+	font-size:16px;
+	font-weight:400;
+}
+
+.black-box span {
+    width: 30px;
+    height: 2px;
+    background: #FF0000;
+    float: left;
+    margin-top: 13px;
+    margin-right: 15px;
+}
+
+.full-col{
+	padding:0px;
+}
+
+.white-box{
+	width:100%;
+	margin:0px;
+	padding:0px 0px;
+	height:auto;
+	float:left;
+	background:#fff;
+}
+.img-box-01 { width:100$;
+float:left;
+}
+.img-box-01 img { width:100%;
+}
+.text-box-01 {width:100$;
+float:left;
+}
+  .text-box-01 p{
+	margin: 0px;
+	color: #666;
+	font-size: 16px;
+	font-weight: 400;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+ .text-box-01 h2{
+	margin: 0px;
+	color: #000;
+	font-size: 20px;
+	font-weight:bold;
+	padding-top:10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+
+.box-half {
+	background-color: #1c1c1c;
+	float: left;
+	height: auto;
+	width: 50%;
+}
+.box-half-01 {
+	background-color: #000000;
+	float: left;
+	height: auto;
+	width: 50%;
+}
+.box-half-01 span {
+    width: 30px;
+    height: 2px;
+    background: #FF0000;
+    float: left;
+    margin-top: 13px;
+    margin-right: 15px;
+}
+.box-half p {
+	margin: 0px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+}
+.box-half p small {
+	margin: 0px;
+	color: #666;
+	font-size: 13px;
+	font-weight: 400;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+.box-half span {
+    width: 30px;
+    height: 2px;
+    background: #FF0000;
+    float: left;
+    margin-top: 13px;
+    margin-right: 15px;
+}
+.box-half-01 p {
+	margin: 0px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+}
+#fullimg-box {
+	background-image: url(../images/n2.jpg);
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+.fllow-box { width:100%;
+float:left;
+margin-top:60px;
+}
+.fllow-box p {
+	font-size: 34px;
+	color: #FFF;
+	text-align: center;
+	padding-bottom: 60px;
+}
+.fllow-box p small { font-size:16px;
+}
+.fllow-box p span {
+	font-size:28px;
+	font-weight: bold;
+}
+.followers {
+	font-size: 44px;
+	color: #FFF;
+	text-align: center;
+	margin-top: 120px;
+}
+.partners-box {
+	background-color: #666;
+
+	height: 120px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.partners-logo {
+	background-color: #900;
+	height: auto;
+	width: 70%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	clear: both;
+
+}
+.partners-logo-box {
+
+	
+	min-width:185px;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
